@@ -1,0 +1,235 @@
+{
+  "groups": [
+    {
+      "group": "Heritage Weaves",
+      "categories": [
+        {
+          "slug": "banarasi",
+          "name": "Banarasi",
+          "description": "Opulent zari work and timeless brocades woven in the heritage looms of Varanasi.",
+          "hero": "/images/hertiage/b1.png",
+          "styles": ["Classic Zari", "Kadhua", "Jangla", "Contemporary"],
+          "products": [
+            {
+              "id": "ban-01",
+              "title": "Classic Zari Banarasi Saree",
+              "price": 1590,
+              "style": "Classic Zari",
+              "images": ["/images/hertiage/b1.png"],
+              "available": true
+            },
+            {
+              "id": "ban-02",
+              "title": "Jangla Pattern Banarasi Saree",
+              "price": 1750,
+              "style": "Jangla",
+              "images": ["/images/hertiage/b1.png"],
+              "available": true
+            }
+          ]
+        },
+        {
+          "slug": "kalamkari",
+          "name": "Kalamkari",
+          "description": "Hand-painted and block-printed elegance featuring natural dyes and intricate motifs.",
+          "hero": "/images/hertiage/e1.png",
+          "styles": ["Pen Kalamkari", "Hand Block", "Printed", "Contemporary"],
+          "products": [
+            {
+              "id": "kal-01",
+              "title": "Indigo Pen Kalamkari Saree",
+              "price": 1190,
+              "style": "Pen Kalamkari",
+              "images": ["images/hertiage/e1.png"],
+              "available": true
+            },
+            {
+              "id": "kal-02",
+              "title": "Rust Hand-Block Kalamkari Saree",
+              "price": 2990,
+              "style": "Hand Block",
+              "images": ["/images/kalamkari/hero.png"],
+              "available": true
+            }
+          ]
+        },
+        {
+          "slug": "paithani",
+          "name": "Paithani Sarees",
+          "description": "Luxurious silk sarees from Maharashtra known for peacock motifs and rich zari borders.",
+          "hero": "/images/paithani/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "chanderi",
+          "name": "Chanderi Sarees",
+          "description": "Lightweight, sheer sarees blending silk and cotton for regal elegance.",
+          "hero": "/images/chanderi/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "dharmavaram",
+          "name": "Dharmavaram Sarees",
+          "description": "Traditional silk sarees from Andhra Pradesh with heavy zari and grandeur.",
+          "hero": "/images/dharmavaram/hero.png",
+          "styles": [],
+          "products": []
+        }
+      ]
+    },
+    {
+      "group": "Silk & Luxe Drapes",
+      "categories": [
+        {
+          "slug": "silk",
+          "name": "Silk Sarees",
+          "description": "Classic silk sarees woven with lustrous textures.",
+          "hero": "/images/silk/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "mysore-silk",
+          "name": "Mysore Silk",
+          "description": "Iconic Mysore silk sarees with vibrant colors and smooth texture.",
+          "hero": "/images/mysore-silk/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "bangalore-silk",
+          "name": "Bangalore Silk",
+          "description": "Smooth, lightweight silk sarees crafted in Bangalore.",
+          "hero": "/images/bangalore-silk/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "upada-silk",
+          "name": "Upada Silk Sarees",
+          "description": "Fine silk sarees from Andhra Pradesh with delicate weaving techniques.",
+          "hero": "/images/upada-silk/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "crepe-silk",
+          "name": "Crepe Silk",
+          "description": "Soft, crinkled silk sarees ideal for contemporary and formal wear.",
+          "hero": "/images/crepe-silk/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "dola-silk",
+          "name": "Dola Silk",
+          "description": "Elegant silk sarees blending shimmer and softness for celebrations.",
+          "hero": "/images/dola-silk/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "tussar-silk",
+          "name": "Tussar Silk Sarees",
+          "description": "Rustic silk sarees with a natural golden sheen.",
+          "hero": "/images/tussar-silk/hero.png",
+          "styles": [],
+          "products": []
+        }
+      ]
+    },
+    {
+      "group": "Modern & Contemporary Styles",
+      "categories": [
+        {
+          "slug": "organza",
+          "name": "Organza Sarees",
+          "description": "Light, crisp sarees with dreamy embroidery and modern appeal.",
+          "hero": "/images/organza/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "georgette",
+          "name": "Georgette Sarees",
+          "description": "Fluid, lightweight sarees ideal for contemporary silhouettes.",
+          "hero": "/images/georgette/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "chiffon",
+          "name": "Chiffon Sarees",
+          "description": "Feather-light sarees with a graceful fall, perfect for modern styling.",
+          "hero": "/images/chiffon/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "cutwork",
+          "name": "Cutwork Sarees",
+          "description": "Modern sarees with intricate cutwork designs for a bold yet elegant look.",
+          "hero": "/images/cutwork/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "georgette-banarasi",
+          "name": "Georgette Banarasi Sarees",
+          "description": "Fusion sarees blending Banarasi zari artistry with georgette drape.",
+          "hero": "/images/georgette-banarasi/hero.png",
+          "styles": [],
+          "products": []
+        }
+      ]
+    },
+    {
+      "group": "Everyday & Artistic Drapes",
+      "categories": [
+        {
+          "slug": "linen",
+          "name": "Linen & Everyday",
+          "description": "Lightweight drapes for daily grace — breathable textures with soft handfeel.",
+          "hero": "/images/linen/hero.png",
+          "styles": ["Solid", "Striped", "Pastel", "Minimal"],
+          "products": [
+            {
+              "id": "lin-01",
+              "title": "Pastel Linen Saree",
+              "price": 79,
+              "style": "Pastel",
+              "images": ["/images/linen/lin-01-main.png"],
+              "available": true
+            },
+            {
+              "id": "lin-02",
+              "title": "Minimal Everyday Linen",
+              "price": 69,
+              "style": "Minimal",
+              "images": ["/images/linen/lin-02-main.png"],
+              "available": true
+            }
+          ]
+        },
+        {
+          "slug": "bandhani",
+          "name": "Bandhani Sarees",
+          "description": "Vibrant tie-dye sarees from Gujarat and Rajasthan, rich in tradition.",
+          "hero": "/images/bandhani/hero.png",
+          "styles": [],
+          "products": []
+        },
+        {
+          "slug": "mulmul",
+          "name": "Mul Mul Cotton",
+          "description": "Soft, breathable cotton sarees perfect for everyday comfort.",
+          "hero": "/images/mulmul/hero.png",
+          "styles": [],
+          "products": []
+        }
+      ]
+    }
+  ]
+}

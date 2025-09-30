@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Lora:wght@400;500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure full height layout */
+html, body, #root {
+  height: 100%;
+}
+
+/* 🌿 Global Body Font: Lora (elegant serif) */
+body {
+  background: #fff;
+  color: #111827;
+  font-family: 'Lora', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ✨ Premium Heading Font: Playfair Display */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  letter-spacing: -0.5px;
+  color: #111827;
+}
+
+/* Optional: Weight adjustments for a luxury feel */
+h1 {
+  font-weight: 700;
+}
+h2, h3 {
+  font-weight: 600;
+}
